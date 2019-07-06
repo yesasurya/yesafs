@@ -1,0 +1,1 @@
+./yesafs mountpoint

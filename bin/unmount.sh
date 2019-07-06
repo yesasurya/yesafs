@@ -1,0 +1,1 @@
+fusermount -uz mountpoint
