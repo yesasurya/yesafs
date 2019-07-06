@@ -1,1 +1,1 @@
-./yesafs mountpoint
+./yesafs -o nonempty mountpoint
